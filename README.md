@@ -1,2 +1,2 @@
 # C---.NET---SQL
-My school's programming lesson notes and homeworks including C#, ASP.NET Web (MVC, Razor Pages...) and MSSQL
+Programming lesson notes and homeworks covering C#, ASP.NET Web (MVC, Razor Pages...) and MS SQL from my school.
